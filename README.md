@@ -52,8 +52,9 @@ This package uses inheritance and polymorphism to organize real-world objects.
 
 Package: org.contoso.datos
 - Catalog: This class acts as a repository. It centralizes the storage of product and customer arrays. It provides search methods (findProductById) that bridge the gap between logic and raw data.
-<br/>
-Package: org.contoso.presentacion
+<br/> 
+
+Package: org.contoso.presentacion  
 - OrderEntry: Contains the method public static void main(String[] args). Its function is purely demonstrative: it instantiates objects, creates orders, and prints them to the screen.
 
 ## 7\. Dependency flow
